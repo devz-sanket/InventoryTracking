@@ -1,0 +1,6 @@
+{
+  "name": "Divine Hindu Inventory Tracker",
+  "description": "A comprehensive, practical inventory tracking system and operational dashboard for Divine Hindu's first physical store in Bangalore, featuring live SKU management, custom order logging, audit reports, low stock alerts, and a step-by-step store setup guide.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
